@@ -54,6 +54,9 @@
             <li class="nav-item">
               <a href="./error.php" class="nav-link px-2 text-white" aria-disabled="true">DLC</a>
             </li>
+            <li class="nav-item">
+              <a href="#Martin" class="nav-link px-2 text-white disabled" aria-disabled="true">Martin Říha</a>
+            </li>
           </ul>
   
           <div class="text-end">
