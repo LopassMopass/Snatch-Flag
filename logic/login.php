@@ -2,7 +2,8 @@
 
 include_once 'DBC.php';
 
-if (empty($_POST["name"]) || empty($_POST["password"])) {
+if (empty($_POST["name"]) || empty($_POST["password"])) 
+{
     $_SESSION["error"] = "Username or Password is empty";
     header('Location: /login.php');
     exit();
@@ -22,11 +23,13 @@ function verifyUser(string $username, string $password): void
     $statement = $connection->prepare("SELECT id, username, password FROM User WHERE username = :username LIMIT 1");
     $statement->execute([":username" => $username]);
     $result = $statement->fetch(PDO::FETCH_ASSOC);
-    if ($result && password_verify($password, $result["password"])) {
+    if ($result && password_verify($password, $result["password"])) 
+    {
         $_SESSION["user_id"] = $result["id"];
         $_SESSION["user_name"] = $result["username"];
         header("Location: /home.php");
-    } else {
+    } else 
+    {
         $_SESSION["error"] = "Invalid login";
         header("Location: /login.php");
     }

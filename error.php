@@ -13,7 +13,12 @@
     </header>
     
     <body>
-        <span><b>Error 404 Occured</b></span>
+        <div class="d-flex justify-content-center">
+            <p class="display-1 text-danger font-monospace"><b>Error 404</b></p>
+        </div>    
+        <div class="d-flex justify-content-center">
+            <a class="btn btn-dark btn-lg font-monospace" href="./index.php" role="button"><b>BACK</b></a>
+        </div>
     </body>
     
     <footer>
