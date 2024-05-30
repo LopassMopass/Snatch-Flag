@@ -3,9 +3,9 @@
 class DBC
 {
     private const HOST = "localhost:3306";
-    private const USER = "test";
-    private const PASSWORD = "1234";
-    private const DATABASE = "test";
+    private const USER = "Admin";
+    private const PASSWORD = "Admin";
+    private const DATABASE = "UserDatabase";
 
     private static $connection;
 
