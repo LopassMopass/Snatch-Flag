@@ -186,24 +186,24 @@
           </div>
           <div class="carousel-inner">
             <div class="carousel-item active">
-              <img src="./components/Placeholder_Black.png" class="d-block w-100 h-100" alt="Movement">
+              <img src="./components/Gameplay_0.png" class="d-block w-100 h-100" alt="Combat">
               <div class="carousel-caption d-none d-md-block">
-                <h5>A slick movement tha feels fluent</h5>
+                <h5>A niche way of combat.</h5>
+                <p>Trie the way of old school combat with pixel art style.</p>
+              </div>
+            </div>
+            <div class="carousel-item">
+              <img src="./components/Gameplay_1.png" class="d-block w-100 h-100" alt="Movement">
+              <div class="carousel-caption d-none d-md-block">
+                <h5>A slick movement tha feels fluent.</h5>
                 <p>Feel the way of movemnet through the ruins of war.</p>
               </div>
             </div>
             <div class="carousel-item">
-              <img src="./components/Placeholder_Black.png" class="d-block w-100 h-100" alt="Combat">
+              <img src="./components/Gameplay_2.png" class="d-block w-100 h-100" alt="Objective">
               <div class="carousel-caption d-none d-md-block">
-                <h5>A niche way of combat</h5>
-                <p>Trie the way of old school combat with pixel art style</p>
-              </div>
-            </div>
-            <div class="carousel-item">
-              <img src="./components/Placeholder_Black.png" class="d-block w-100 h-100" alt="Objective">
-              <div class="carousel-caption d-none d-md-block">
-                <h5>Snatch a flag and be done with you pilgrim</h5>
-                <p>Through your wisdom, fighting spirit and deciding movement get to the enemy flag and steal their continent</p>
+                <h5>Snatch a flag and be done with you pilgrim.</h5>
+                <p>Through your wisdom, fighting spirit and deciding movement get to the enemy flag and steal their continent.</p>
               </div>
             </div>
           </div>
@@ -261,24 +261,24 @@
             </div>
             <div class="carousel-inner">
               <div class="carousel-item active">
-                <img src="./components/Placeholder_Black.png" class="d-block w-100 h-100" alt="Movement">
+                <img src="./components/Game_Dev_0.png" class="d-block w-100 h-100" alt="HowItStarted">
                 <div class="carousel-caption d-none d-md-block">
-                  <h5>A slick movement tha feels fluent</h5>
-                  <p>Feel the way of movemnet through the ruins of war.</p>
+                  <h5>Everything need to start somewhere.</h5>
+                  <p>Here you can see the start of Snatch&Flag.</p>
                 </div>
               </div>
               <div class="carousel-item">
-                <img src="./components/Placeholder_Black.png" class="d-block w-100 h-100" alt="Combat">
+                <img src="./components/Game_Dev_1.png" class="d-block w-100 h-100" alt="HowItLooked">
                 <div class="carousel-caption d-none d-md-block">
-                  <h5>A niche way of combat</h5>
-                  <p>Trie the way of old school combat with pixel art style</p>
+                  <h5>A little bit of the inside look.</h5>
+                  <p>Here is a better look on how things where at the beginning</p>
                 </div>
               </div>
               <div class="carousel-item">
-                <img src="./components/Placeholder_Black.png" class="d-block w-100 h-100" alt="Objective">
+                <img src="./components/Game_Dev_2.png" class="d-block w-100 h-100" alt="HowItIsGoing">
                 <div class="carousel-caption d-none d-md-block">
-                  <h5>Snatch a flag and be done with you pilgrim</h5>
-                  <p>Through your wisdom, fighting spirit and deciding movement get to the enemy flag and steal their continent</p>
+                  <h5>So where are we now?</h5>
+                  <p>As you can see we upgraded something. Don't worry, this is just a testing ground NOT the actual map.</p>
                 </div>
               </div>
             </div>

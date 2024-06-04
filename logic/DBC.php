@@ -3,8 +3,8 @@
 class DBC
 {
     private const HOST = "localhost:3306";
-    private const USER = "Admin";
-    private const PASSWORD = "Admin";
+    private const USER = "User";
+    private const PASSWORD = "User";
     private const DATABASE = "UserDatabase";
 
     private static $connection;
